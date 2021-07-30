@@ -1,2 +1,4 @@
 # shit
-Practice python shit
+Practice python from 
+
+https://edabit.com/challenges
