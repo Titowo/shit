@@ -1,4 +1,4 @@
 # shit
-Practice python from 
+Practice python
 
-https://edabit.com/challenges
+Sheeeesh
